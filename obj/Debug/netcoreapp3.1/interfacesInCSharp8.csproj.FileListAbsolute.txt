@@ -1,0 +1,13 @@
+C:\Users\mikha\source\repos\interfacesInCSharp8\bin\Debug\netcoreapp3.1\interfacesInCSharp8.exe
+C:\Users\mikha\source\repos\interfacesInCSharp8\bin\Debug\netcoreapp3.1\interfacesInCSharp8.deps.json
+C:\Users\mikha\source\repos\interfacesInCSharp8\bin\Debug\netcoreapp3.1\interfacesInCSharp8.runtimeconfig.json
+C:\Users\mikha\source\repos\interfacesInCSharp8\bin\Debug\netcoreapp3.1\interfacesInCSharp8.runtimeconfig.dev.json
+C:\Users\mikha\source\repos\interfacesInCSharp8\bin\Debug\netcoreapp3.1\interfacesInCSharp8.dll
+C:\Users\mikha\source\repos\interfacesInCSharp8\bin\Debug\netcoreapp3.1\interfacesInCSharp8.pdb
+C:\Users\mikha\source\repos\interfacesInCSharp8\obj\Debug\netcoreapp3.1\interfacesInCSharp8.csprojAssemblyReference.cache
+C:\Users\mikha\source\repos\interfacesInCSharp8\obj\Debug\netcoreapp3.1\interfacesInCSharp8.csproj.CoreCompileInputs.cache
+C:\Users\mikha\source\repos\interfacesInCSharp8\obj\Debug\netcoreapp3.1\interfacesInCSharp8.AssemblyInfoInputs.cache
+C:\Users\mikha\source\repos\interfacesInCSharp8\obj\Debug\netcoreapp3.1\interfacesInCSharp8.AssemblyInfo.cs
+C:\Users\mikha\source\repos\interfacesInCSharp8\obj\Debug\netcoreapp3.1\interfacesInCSharp8.dll
+C:\Users\mikha\source\repos\interfacesInCSharp8\obj\Debug\netcoreapp3.1\interfacesInCSharp8.pdb
+C:\Users\mikha\source\repos\interfacesInCSharp8\obj\Debug\netcoreapp3.1\interfacesInCSharp8.genruntimeconfig.cache
