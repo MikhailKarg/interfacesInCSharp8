@@ -11,9 +11,9 @@ namespace interfacesInCSharp8
             //appFirstCommand.exec();
             //appFirstCommand.sendNotification("Default implementations");
 
-            ICommand appSecondCommand = new AppSecondCommand();
-            appSecondCommand.exec();
-            appSecondCommand.sendNotification("Ovveride mrthod from AppSecondCommand");
+            //ICommand appSecondCommand = new AppSecondCommand();
+            //appSecondCommand.exec();
+            //appSecondCommand.sendNotification("Override mrthod from AppSecondCommand");
 
             //IVirtualMembers virtualMembers = new AppThirdCommand();
             //virtualMembers.sendNotification();

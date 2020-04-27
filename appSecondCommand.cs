@@ -15,7 +15,7 @@ namespace interfacesInCSharp8
         // ovveride sendNotification
         public void sendNotification()
         {
-            Console.WriteLine("New implementation");
+            Console.WriteLine("Override method from AppSecondCommand");
         }
     }
 }

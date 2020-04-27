@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mikha\\source\\repos\\interfacesInCSharp8\\interfacesInCSharp8.csproj",
+      "projectUniqueName": "E:\\Documents\\Study\\Study\\interfacesInCSharp8\\interfacesInCSharp8.csproj",
       "projectName": "interfacesInCSharp8",
-      "projectPath": "C:\\Users\\mikha\\source\\repos\\interfacesInCSharp8\\interfacesInCSharp8.csproj",
+      "projectPath": "E:\\Documents\\Study\\Study\\interfacesInCSharp8\\interfacesInCSharp8.csproj",
       "packagesPath": "C:\\Users\\mikha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mikha\\source\\repos\\interfacesInCSharp8\\obj\\",
+      "outputPath": "E:\\Documents\\Study\\Study\\interfacesInCSharp8\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mikha\\AppData\\Roaming\\NuGet\\NuGet.Config",

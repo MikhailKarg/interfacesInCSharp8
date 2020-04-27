@@ -11,3 +11,16 @@ C:\Users\mikha\source\repos\interfacesInCSharp8\obj\Debug\netcoreapp3.1\interfac
 C:\Users\mikha\source\repos\interfacesInCSharp8\obj\Debug\netcoreapp3.1\interfacesInCSharp8.dll
 C:\Users\mikha\source\repos\interfacesInCSharp8\obj\Debug\netcoreapp3.1\interfacesInCSharp8.pdb
 C:\Users\mikha\source\repos\interfacesInCSharp8\obj\Debug\netcoreapp3.1\interfacesInCSharp8.genruntimeconfig.cache
+E:\Documents\Study\Study\interfacesInCSharp8\bin\Debug\netcoreapp3.1\interfacesInCSharp8.exe
+E:\Documents\Study\Study\interfacesInCSharp8\bin\Debug\netcoreapp3.1\interfacesInCSharp8.deps.json
+E:\Documents\Study\Study\interfacesInCSharp8\bin\Debug\netcoreapp3.1\interfacesInCSharp8.runtimeconfig.json
+E:\Documents\Study\Study\interfacesInCSharp8\bin\Debug\netcoreapp3.1\interfacesInCSharp8.runtimeconfig.dev.json
+E:\Documents\Study\Study\interfacesInCSharp8\bin\Debug\netcoreapp3.1\interfacesInCSharp8.dll
+E:\Documents\Study\Study\interfacesInCSharp8\bin\Debug\netcoreapp3.1\interfacesInCSharp8.pdb
+E:\Documents\Study\Study\interfacesInCSharp8\obj\Debug\netcoreapp3.1\interfacesInCSharp8.csprojAssemblyReference.cache
+E:\Documents\Study\Study\interfacesInCSharp8\obj\Debug\netcoreapp3.1\interfacesInCSharp8.csproj.CoreCompileInputs.cache
+E:\Documents\Study\Study\interfacesInCSharp8\obj\Debug\netcoreapp3.1\interfacesInCSharp8.AssemblyInfoInputs.cache
+E:\Documents\Study\Study\interfacesInCSharp8\obj\Debug\netcoreapp3.1\interfacesInCSharp8.AssemblyInfo.cs
+E:\Documents\Study\Study\interfacesInCSharp8\obj\Debug\netcoreapp3.1\interfacesInCSharp8.dll
+E:\Documents\Study\Study\interfacesInCSharp8\obj\Debug\netcoreapp3.1\interfacesInCSharp8.pdb
+E:\Documents\Study\Study\interfacesInCSharp8\obj\Debug\netcoreapp3.1\interfacesInCSharp8.genruntimeconfig.cache
